@@ -14,3 +14,7 @@ To run the application
 
 mvn spring-boot:run
 
+Swagger URL:
+
+http://localhost:5000/swagger-ui.html
+
